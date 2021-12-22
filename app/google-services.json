@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601608381206",
+    "project_id": "kwiktabu",
+    "storage_bucket": "kwiktabu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601608381206:android:49d83fdd726f8446562637",
+        "android_client_info": {
+          "package_name": "com.mwakisha.kwiktabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601608381206-qr1hrpcfpl1fc1op68bmip8rrfql1s5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKervWYmzWDTyScoYkSNd_caZojHVvgq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601608381206-qr1hrpcfpl1fc1op68bmip8rrfql1s5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
